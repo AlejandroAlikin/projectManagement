@@ -8,7 +8,7 @@
 * Неупокоев Дмитрий Александрович, 23 гр.
 * Грибков Никита Алексеевич, 22 гр.
 
-**Таск-трекер:** [Ссылка на таск-трекер]()
+**Таск-трекер:** [Ссылка на таск-трекер](https://alikin020.atlassian.net/?continue=https%3A%2F%2Falikin020.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiM2UyNjc2OWJjM2IyNGQ4NzllNmRmM2RiYzI3YTMzYWIiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)
 
 ## Фазы
 
